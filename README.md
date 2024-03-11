@@ -1,1 +1,1 @@
-# Wildfire-Tracker
+# wildfire tracker
